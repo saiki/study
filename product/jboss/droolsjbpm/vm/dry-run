@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+itamae ssh --dry-run --vagrant --host default recipe.rb
